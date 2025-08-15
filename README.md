@@ -1,6 +1,6 @@
 # Hi, I'm Vibhore Mathur
 
-MERN Stack Developer | AI Enthusiast | Machine Learning Learner
+Full Stack Developer | ML | DevOps
 
 ---
 
