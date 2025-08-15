@@ -14,8 +14,7 @@ MERN Stack Developer | AI Enthusiast | Machine Learning Learner
 ---
 
 ## GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VibhoreMathur&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VibhoreMathur&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VIBHORE-LAB&layout=compact&theme=radical)
 
 ---
 
