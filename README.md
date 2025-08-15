@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Vibhore Mathur
 
-<!--
-**VIBHORE-LAB/VIBHORE-LAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MERN Stack Developer | AI Enthusiast | Machine Learning Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Building web applications with the MERN stack.
+- Profiecient in Flask and Python enviornments.
+- Exploring Machine Learning.
+- Interested in combining AI with full-stack development.
+- Based in India.
+
+---
+
+## GitHub Analytics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VibhoreMathur&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VibhoreMathur&layout=compact&theme=radical)
+
+---
+
+## Tools & Technologies
+- JavaScript, Node.js, Express.js, React.js, MongoDB, Flask
+- HTML5, CSS3, Tailwind CSS, Bootstrap
+- Python, Git, GitHub, REST APIs
+
+---
+
+## Connect With Me
+[LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://yourportfolio.com) | [Email](mailto:youremail@example.com)
