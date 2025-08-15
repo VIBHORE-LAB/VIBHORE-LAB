@@ -26,4 +26,4 @@ MERN Stack Developer | AI Enthusiast | Machine Learning Learner
 ---
 
 ## Connect With Me
-[LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://yourportfolio.com) | [Email](mailto:youremail@example.com)
+[LinkedIn](https://www.linkedin.com/in/vibhore-mathur-1911b1209/) | [Portfolio](https://onlyvibhore.xyz) | [Email](mailto:onlyvibhore@gmail.com)
